@@ -1,0 +1,28 @@
+# Python cache and build artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+build/
+dist/
+
+# Virtual environments
+edgeai_env/
+.venv/
+venv/
+env/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Generated model/export artifacts (can be regenerated)
+mnist_cnn_model/
+*.keras
+
+# Optional logs
+*.log
