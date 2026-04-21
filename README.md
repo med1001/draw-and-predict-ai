@@ -1,4 +1,4 @@
-# MNIST CNN -> TensorFlow Lite (Beginner ML Project)
+# MNIST CNN -> TensorFlow Lite (ML Project)
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-FF6F00.svg)](https://www.tensorflow.org/)
@@ -121,7 +121,7 @@ Draw a digit (0-9), click **Predict**, and check the terminal output for:
 
 ## How to Contribute
 
-Contributions are welcome, especially beginner-friendly improvements.
+Contributions are welcome.
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/my-change`)
